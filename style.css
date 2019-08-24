@@ -1,0 +1,17 @@
+/* 
+    Git - Validade Traduzido 
+    Versão 1.0 
+    Importe a Classe Roboto no google fonts
+    e tro que a classe .class-form por a classe do seu formulario na tag <form>
+*/
+.
+
+.class-form span {
+    margin-bottom: 15px;
+    font-size: 13px;
+    margin-top: -10px;
+    color: rgb(219, 36, 36);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    display: block;
+}
